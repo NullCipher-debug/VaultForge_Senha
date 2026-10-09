@@ -47,7 +47,7 @@ Se alguém quiser rodar seu projeto, é aqui que você ensina.
 
 ```bash
 # 1. Clone o repositório
-git clone https://github.com/NullCipher-debug/senha-
+git clone https://github.com/NullCipher-debug/VaultForge_Senha
 
 # 2. Entre na pasta
 cd vaultforge
