@@ -1,3 +1,4 @@
+<img width="824" height="842" alt="Captura de tela 2026-10-09 000031" src="https://github.com/user-attachments/assets/50a70457-584e-46f2-b4f3-0b9ddd2ad886" />
 # 🔐 VaultForge - Gerador de Senhas Inteligente
 
 > Um gerador de senhas moderno, seguro e auditado. Não apenas cria senhas, mas corrige e confere cada uma.
