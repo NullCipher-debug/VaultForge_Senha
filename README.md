@@ -6,7 +6,7 @@
 ![Badge de Licença](https://img.shields.io/badge/licença-MIT-blue)
 ![Badge de Tecnologia](https://img.shields.io/badge/feito%20com-Next.js%20%26%20TypeScript-black)
 
-### [➡️ Ver Demonstração Ao Vivo](https://darkseagreen-wasp-558967.hostingersite.com/senha/)
+### [➡️ Ver Demonstração Ao Vivo](https://projetos.nullcipher.site/senha/)
 
 Preview do Projeto  <img width="824" height="842" alt="Captura de tela 2026-10-09 000031" src="https://github.com/user-attachments/assets/50a70457-584e-46f2-b4f3-0b9ddd2ad886" />)
 
