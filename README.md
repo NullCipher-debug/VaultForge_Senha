@@ -8,7 +8,7 @@
 
 ### [➡️ Ver Demonstração Ao Vivo](https://seu-link-aqui.vercel.app)
 
-![Preview do Projeto](https://via.placeholder.com/800x400?text=Coloque+um+print+do+seu+projeto+aqui)
+![Preview do Projeto](https://darkseagreen-wasp-558967.hostingersite.com/senha/)
 
 ---
 
