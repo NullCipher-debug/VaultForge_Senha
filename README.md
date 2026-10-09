@@ -8,7 +8,7 @@
 
 ### [➡️ Ver Demonstração Ao Vivo](https://darkseagreen-wasp-558967.hostingersite.com/senha/)
 
-![Preview do Projeto] (width="824" height="842" alt="Captura de tela 2026-10-09 000031" src="https://github.com/user-attachments/assets/50a70457-584e-46f2-b4f3-0b9ddd2ad886" />)
+![Preview do Projeto]  (https://via.placeholder.com/800x400?text=<img width="824" height="842" alt="Captura de tela 2026-10-09 000031" src="https://github.com/user-attachments/assets/50a70457-584e-46f2-b4f3-0b9ddd2ad886" />)
 
 ---
 
