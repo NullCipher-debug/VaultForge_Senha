@@ -72,8 +72,8 @@ Vazamento: Já apareceu em algum vazamento?
  PWA para funcionar offline
  Extensão para o Chrome
 👨‍💻 Autor
-Feito por Seu Nome
-Meu LinkedIn: linkedin.com/in/seu-perfil
+Feito por Cipher_Arthur
+Meu LinkedIn: https://github.com/NullCipher-debug
 
 📝 Licença
 Este projeto está sob a licença MIT.
